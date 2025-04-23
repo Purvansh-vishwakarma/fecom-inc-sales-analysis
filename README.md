@@ -10,17 +10,18 @@ Since the marketplace is not limited to a specific product, it features 32,951 d
 It has the following tables
 
 Fecom Inc Customer List.csv - contains data about customers
-
 Fecom Inc Geolocations.csv - contains data about locations
-
 Fecom Inc Order Items.csv - contains data about orderitems
-
 Fecom Inc Order Payments.csv - contains data about payments
-
 Fecom Inc Orders.csv - contains data about orders
-
 Fecom Inc Products.csv - contains data about products
-
 Fecom Inc Sellers List.csv - contains data about sellers
-
 Fecom_Inc_Order_Reviews_No_Emoji - contains data about reviews
+
+#  Key Insights 
+
+- **Credit card** is the dominant payment method (78.88% of total payments)
+- **Health & Beauty** leads in product category sales
+- Peak **order volume** occurred in **August**
+- Most reviews are **positive**, with over 285K 5-star ratings
+- **Germany** leads in order volume by location
